@@ -1,2 +1,3 @@
 # avenirs-spring-boot-template
-Template to initialize repositories with Spring Boot support.
+
+Ce projet est un exemple minimal de projet Spring Boot structuré selon l'architecture hexagonale (Ports & Adapters).
